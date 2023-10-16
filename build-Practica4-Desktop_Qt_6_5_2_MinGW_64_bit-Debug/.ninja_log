@@ -1,0 +1,16 @@
+# ninja log v5
+8	273	7188405888419405	Practica4_autogen/timestamp	b999c4d8abc73c80
+796	2262	7185332762212979	CMakeFiles/Practica4.dir/main.cpp.obj	e14f45086edaf4c7
+5	25	0	C:/Users/bille/OneDrive/Documentos/build-Practica4-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	c13ebe66a3de7ff2
+8	273	7188405888419405	Practica4_autogen/mocs_compilation.cpp	b999c4d8abc73c80
+286	2475	7188405910447523	CMakeFiles/Practica4.dir/mainwindow.cpp.obj	358b8df676aadf7a
+8	273	7188405888419405	C:/Users/bille/OneDrive/Documentos/build-Practica4-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/Practica4_autogen/timestamp	b999c4d8abc73c80
+8	273	7188405888419405	C:/Users/bille/OneDrive/Documentos/build-Practica4-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/Practica4_autogen/mocs_compilation.cpp	b999c4d8abc73c80
+792	2279	7185332762382547	CMakeFiles/Practica4.dir/Practica4_autogen/mocs_compilation.cpp.obj	b476e92610c6c747
+2476	2769	7188405913356947	Practica4.exe	4c7cde439ddb32cf
+801	1125	7185212717887989	CMakeFiles/Practica4.dir/Neurona.cpp.obj	554483a7da92626a
+289	1734	7188405903035654	CMakeFiles/Practica4.dir/Neuronas.cpp.obj	41529f25c35f7e73
+5	23	0	C:/Users/bille/OneDrive/Documentos/build-Practica4-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	c13ebe66a3de7ff2
+5	22	7188407061438121	C:/Users/bille/OneDrive/Documentos/build-Practica4-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	c13ebe66a3de7ff2
+5	22	7188407097818394	C:/Users/bille/OneDrive/Documentos/build-Practica4-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	c13ebe66a3de7ff2
+5	22	7188407114118410	C:/Users/bille/OneDrive/Documentos/build-Practica4-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	c13ebe66a3de7ff2
